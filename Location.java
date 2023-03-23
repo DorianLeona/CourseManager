@@ -58,7 +58,7 @@ public class Location
 
 	public String getRoom()
 	{
-		return this.room'
+		return this.room;
 	};
 
 

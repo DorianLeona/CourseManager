@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Course
+public class Course extends Student_Course
 {
 	//members//
 	String courseName;
@@ -10,6 +10,8 @@ public class Course
 	String courseNum;
 
 	Section[] sections;
+	String[] pre_reqs;
+	String student_fileName;
 
 
 	//methods//

@@ -9,9 +9,19 @@ public class Student
 	Date dob;
 	Date graduation;
 	Transcript records;
-
-
+	ArrayList<InfoCard> current_courses;
+	
 	//methods of the class//
+	public student()
+	{
+
+	};
+
+
+	public viewEnrollment()
+	{
+	
+	};
 
 
 }
